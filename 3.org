@@ -1,0 +1,8 @@
+- 第一项
+  :PROPERTIES:
+  :STYLE: color:red;font-weight:bold;
+  :END:
+- 第二项
+  :PROPERTIES:
+  :STYLE: class=myclass;
+  :END:
