@@ -1,3 +1,23 @@
 - First item
 - <span style="color:red;">Second item</span>
 - Third item
+
+- First item
+- **Second item**
+- Third item
+- First item
+- *Second item*
+- Third item
+
+- First item
+- *Second item*
+- _Third item_
+
+Copy
+- First item
+- ***Second item***
+- _**Third item**_
+
+- First item
+- +Second item with underlined text+
+- Third item
