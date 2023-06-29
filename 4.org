@@ -1,0 +1,9 @@
+- First item
+- Second item
+  :PROPERTIES:
+  :HTML: <span style="color:red;">
+  :END:
+  Some text in the second item
+  :PROPERTIES:
+  :HTML: </span>
+  :END:
