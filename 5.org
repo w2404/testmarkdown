@@ -1,0 +1,3 @@
+- First item
+- <span style="color:red;">Second item</span>
+- Third item
